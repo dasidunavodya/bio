@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **💻 Java, Python basics, HTML/CSS, cybersecurity trends, or ethical hacking tools**
 
-- 📫 How to reach me **dasidu.navodya.dev@gmail.com**
+- 📫 How to reach me **dasidunavodyaofficial@gmail.com**
 
 - ⚡ Fun fact **🤖 I love exploring how AI can be used in cybersecurity and sometimes test my skills on CTF platforms just for fun!**
 
